@@ -6,7 +6,7 @@
 我丝毫不怕那些懂一万种踢技的人，但我怕将一种踢技练习了一万遍的人。
 
 ## 工具
-- [webstorm](http://www.jetbrains.com/webstorm/download/#section=windows
+- [webstorm](http://www.jetbrains.com/webstorm/download/#section=windows)
 - [eclipse](https://www.eclipse.org/downloads/)
 - [HBuilder](http://www.dcloud.io/)
 - [Sublime Text 3](https://www.sublimetext.com/3)
